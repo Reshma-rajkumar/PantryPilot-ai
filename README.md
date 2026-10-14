@@ -1,4 +1,4 @@
-# NutriCart AI (Hackathon MVP)
+# # PantryPilot AI
 
 NutriCart AI is a full-stack starter for an AI-assisted nutrition and grocery planner. The **chat panel is only the interaction layer**; plans, stores, products, basket, meals, and nutrition render as **structured sections** on the planner page.
 
